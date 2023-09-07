@@ -73,11 +73,10 @@ footer {
     display: block;
   }
   .step-box {
-    width: auto;
-    padding-left: 2%;
-    padding-right: 2%;
+    width: 90%;
+    margin: 0 5% 20px;
   }
-  .step-img1 {
-    width: auto;
+  .step-box:last-child {
+    margin-bottom: 50px;
   }
 }
